@@ -1,1 +1,1 @@
-# facial-recoginition-traditional-machine-learning
+# Facial Recognition using Traditional Machine Learning
