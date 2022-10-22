@@ -1,5 +1,7 @@
 # Facial Recognition using Traditional Machine Learning
 
+For detailed explanation on the notebook, follow this [article] (https://contactmansi.github.io/workoutdata/image-analytics/knn/random%20forest/pca/classification/faces-dataset/2022/10/22/facial_recognition_using_basic_ml.html)
+
 ## Setup guidelines for project:
 
 1. Setup new virtual environment(venv) for running facial recognition using basic machine learning jupyter notebook using on Windows. Refer my [post](https://contactmansi.github.io/workoutdata/markdown/2022/01/29/Virtual-Environment-Jupyter-Notebook.html) for a quick setup.
