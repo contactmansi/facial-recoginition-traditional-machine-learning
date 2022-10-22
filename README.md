@@ -1,6 +1,6 @@
 # Facial Recognition using Traditional Machine Learning
 
-For detailed explanation on the notebook, follow this [article] (https://contactmansi.github.io/workoutdata/image-analytics/knn/random%20forest/pca/classification/faces-dataset/2022/10/22/facial_recognition_using_basic_ml.html)
+For detailed explanation on the notebook, follow this [article](https://contactmansi.github.io/workoutdata/image-analytics/knn/random%20forest/pca/classification/faces-dataset/2022/10/22/facial_recognition_using_basic_ml.html)
 
 ## Setup guidelines for project:
 
